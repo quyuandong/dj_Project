@@ -6,7 +6,7 @@
 * 本项目以vue为基础，使用element-ui框架来实现后台管理界面的搭建，服务器端口使用的是node + express 来搭建的服务，使用的是mongo数据库，主要是针对高校的党建活动做的一款app,该项目中，密码使用==bcrytp==进行加密，并且使用到了==权限校验jwt==，所用到的知识点相对来说比较简单，程序相对来说比较简单易懂，非常适合新手来进行相关的练习操作。（PS:欢迎Star）
 # 项目地址
 
-* <a target="_blank" href="https://github.com/linkenliu/MissCloudVue">https://github.com/linkenliu/MissCloudVue</a>
+* <a target="_blank" href="https://github.com/quyuandong/dj_Project</a>
 
 # 项目的结构
 ![enter description here](https://gitee.com/qyd_9/nodebook_image/raw/master/小书匠/2019912dj_01.png)
